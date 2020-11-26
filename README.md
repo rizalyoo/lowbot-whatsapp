@@ -48,4 +48,4 @@ BOT WHATSAPP
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ### Donate
-* [`Saweria`](https://saweria.co/rizalyoo
+* [`Saweria`] (https://saweria.co/rizalyoo)
